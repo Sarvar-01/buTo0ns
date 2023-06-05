@@ -1,0 +1,46 @@
+.red{
+    padding: 10px;
+    background: red;
+    border: 0;
+    border-radius: 10px;
+}
+
+.blue{
+    padding: 10px;
+    background: rgb(7, 36, 183);
+    border: 0;
+    border-radius: 10px;
+}
+
+.yellow{
+    padding: 10px;
+    background: yellow;
+    border: 0;
+    border-radius: 10px;
+}
+
+.purple{
+    padding: 10px;
+    background:purple;
+    border: 0;
+    border-radius: 10px;
+}
+.green{
+    padding: 10px;
+    background: green;
+    border: 0;
+    border-radius: 10px;
+}
+.skyblue{
+    padding: 10px;
+    background:skyblue;
+    border: 0;
+    border-radius: 10px;
+}
+.hotpink{
+    padding: 10px;
+    background:hotpink;
+    border: 0;
+    border-radius: 10px;
+    
+}
